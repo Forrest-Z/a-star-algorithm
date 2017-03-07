@@ -40,6 +40,6 @@ auto path = algorithm.find(param);
 
 # 编译代码
 ```shell
-make build && cd build
+madir build && cd build
 cmake ../example && make
 ```
